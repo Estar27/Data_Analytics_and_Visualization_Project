@@ -67,6 +67,8 @@ EDA involved exploring the comprehensive content dataset to answer key questions
 - What is the best performing Content Category?
 - Total number of Content category and Reaction?
 
+![Line graph](https://github.com/Estar27/Data_Analytics_and_Visualization_Project/blob/main/Line_graph%20and%20Cards.png?raw=true)
+
 ## Visualization
 Created various visualization including:
 - Barchart to compare the various content categories
