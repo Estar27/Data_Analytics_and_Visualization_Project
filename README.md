@@ -16,6 +16,7 @@
 ## Project Overview
 
 This data analysis project focuses on evaluating the content performance of a social media company over the months in a given year. By thoroughly analyzing diverse aspects of the content data, we aim to uncover significant trends and patterns that will inform our understanding of audience engagement and content efficacy. Our goal is to derive actionable, data-driven recommendations that will enable the company to optimize its content strategy and enhance overall performance. Through this comprehensive analysis, we aspire to provide valuable insights that will support decision-making and drive future growth.
+![bar plot](https://github.com/Estar27/Data_Analytics_and_Visualization_Project/blob/main/Bar_plot.png?raw=true)
 
 ## Data Sources
 ### 1.Content Data (Content.csv)
