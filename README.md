@@ -97,3 +97,5 @@ Based on the analysis, we recommend the following actions:
 
 1. [Youtube](https://www.youtube.com/watch?v=aUMEx4in2iU)
 2. [Udemy](https://www.udemy.com/course/dataanalysiswithexcelandpbi/learn/lecture/39816494?start=0#content)
+
+😃 💻 
