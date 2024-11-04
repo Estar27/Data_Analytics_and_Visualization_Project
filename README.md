@@ -9,6 +9,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Visualization](#visualization)
 - [Results/Findings](#resultsfindings)
+- [Limitations](#limitations)
 - [Recommendations](#recommendations)
 - [References](#references)
 
